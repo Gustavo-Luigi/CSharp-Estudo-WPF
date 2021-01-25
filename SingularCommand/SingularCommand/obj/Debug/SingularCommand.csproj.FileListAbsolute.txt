@@ -1,0 +1,15 @@
+D:\coding\c-sharp\SingularCommand\SingularCommand\bin\Debug\SingularCommand.exe.config
+D:\coding\c-sharp\SingularCommand\SingularCommand\bin\Debug\SingularCommand.exe
+D:\coding\c-sharp\SingularCommand\SingularCommand\bin\Debug\SingularCommand.pdb
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand.csprojAssemblyReference.cache
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\MainWindow.g.cs
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\App.g.cs
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand_MarkupCompile.cache
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand_MarkupCompile.lref
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\MainWindow.baml
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand.g.resources
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand.Properties.Resources.resources
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand.csproj.GenerateResource.cache
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand.csproj.CoreCompileInputs.cache
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand.exe
+D:\coding\c-sharp\SingularCommand\SingularCommand\obj\Debug\SingularCommand.pdb
