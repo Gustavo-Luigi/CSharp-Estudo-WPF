@@ -1,0 +1,15 @@
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands.csprojAssemblyReference.cache
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\App.g.cs
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands_MarkupCompile.cache
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\MainWindow.g.cs
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands_MarkupCompile.lref
+D:\coding\c-sharp\RelayCommands\RelayCommands\bin\Debug\RelayCommands.exe.config
+D:\coding\c-sharp\RelayCommands\RelayCommands\bin\Debug\RelayCommands.exe
+D:\coding\c-sharp\RelayCommands\RelayCommands\bin\Debug\RelayCommands.pdb
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\MainWindow.baml
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands.g.resources
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands.Properties.Resources.resources
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands.csproj.GenerateResource.cache
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands.csproj.CoreCompileInputs.cache
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands.exe
+D:\coding\c-sharp\RelayCommands\RelayCommands\obj\Debug\RelayCommands.pdb
