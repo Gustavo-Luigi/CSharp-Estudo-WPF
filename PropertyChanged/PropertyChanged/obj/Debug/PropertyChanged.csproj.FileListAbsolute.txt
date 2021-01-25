@@ -1,0 +1,15 @@
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\bin\Debug\PropertyChanged.exe.config
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\bin\Debug\PropertyChanged.exe
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\bin\Debug\PropertyChanged.pdb
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged.csprojAssemblyReference.cache
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\MainWindow.g.cs
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\App.g.cs
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged_MarkupCompile.cache
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged_MarkupCompile.lref
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\MainWindow.baml
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged.g.resources
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged.Properties.Resources.resources
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged.csproj.GenerateResource.cache
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged.csproj.CoreCompileInputs.cache
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged.exe
+D:\coding\c-sharp\PropertyChanged\PropertyChanged\obj\Debug\PropertyChanged.pdb
